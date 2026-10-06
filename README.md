@@ -115,3 +115,11 @@ Generated text captures language-specific character patterns (accents, common se
 - **Generation** — uses the unsmoothed model and `numpy` random sampling with a configurable seed (`r`).
 - **Vocabulary size** — approximately 1,804 unique characters across all 8 language corpora.
 - **Shared vocabulary** — all language models are built over the same unified character set.
+
+---
+
+<!-- demo-lab:start -->
+## Explore this project
+
+[Project page & walkthrough](https://eforus-overseer.github.io/demo-lab/projects/language-detection/) — Try an interactive explanation and inspect the original source and results. Browser teaching examples are distinguished from trained models.
+<!-- demo-lab:end -->
