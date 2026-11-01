@@ -126,8 +126,8 @@ Generated text captures language-specific character patterns (accents, common se
 
 
 <!-- codex-pixel-art -->
-## Pixel art
+## Project visual
 
-![Pixel art for Language-Detection](assets/pixel-art.svg)
+![Pixel-art cover for Language-Detection](assets/project-cover.png)
 
-A small visual signature for this repository.
+<sub>Pixel-art adaptation of [OpenMoji globe](https://github.com/hfg-gmuend/openmoji/blob/master/color/618x618/1F310.png) by OpenMoji contributors, licensed [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Source: OpenMoji.</sub>
